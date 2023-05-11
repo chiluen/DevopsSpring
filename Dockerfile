@@ -14,5 +14,5 @@ EXPOSE 8080
 # Test the app
 RUN bash ci.sh
 
-# Test the app
+# Test the app after build
 #CMD ["bash", "ci.sh"] 
