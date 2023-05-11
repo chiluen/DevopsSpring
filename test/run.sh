@@ -1,2 +1,0 @@
-cd ./complete
-./gradlew bootRun

@@ -11,4 +11,5 @@ COPY . .
 
 EXPOSE 8080
 
-CMD ["bash", "run.sh"]
+# Test the app
+CMD ["bash", "ci.sh"] 
